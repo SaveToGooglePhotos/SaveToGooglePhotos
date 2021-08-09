@@ -9,3 +9,6 @@
 4. Errors, bugs, and usage will be captured to resolve issues and provide enhancements to the application.
 5. No data will be shared to a third party or service.
 6. System data such as cookies will not be used and stored.
+
+## Questions & Suggestions
+- support@savetogooglephotos.com
