@@ -1,8 +1,6 @@
-![](https://lh3.googleusercontent.com/hMNm9GwmB_Gfdpe9NyTazh4OmwihM0S_sHsLo7Tr7FiEX6dfWX6JdHh-Eknz72V2KSySkIgaCBu0gWAeby-UKDqK=w1300-h700-rw)
-
 <h1>Privacy Policy of Save To Google Photos</h1>
 
-<p>Save To Google Photos operates the savetogooglephotos.com website, which provides the SERVICE.</p>
+<p>Save To Google Photos operates the savetogooglephotos.com website and extension, which provides the SERVICE.</p>
 
 <p>This page is used to inform website visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service, the Save To Google Photos website.</p>
 
@@ -12,7 +10,7 @@
 
 <h2>Information Collection and Use</h2>
 
-<p>For a better experience while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to your name, phone number, and postal address. The information that we collect will be used to contact or identify you.</p>
+<p>We do not collect any information that is personally identifiable to you. We will not be contacting you for any marketing reasons.</p>
 
 <h2>Log Data</h2>
 
@@ -20,11 +18,7 @@
 
 <h2>Cookies</h2>
 
-<p>Cookies are files with small amount of data that is commonly used an anonymous unique identifier. These are sent to your browser from the website that you visit and are stored on your computer’s hard drive.</p>
-
-<p>Our website uses these "cookies" to collection information and to improve our Service. You have the option to either accept or refuse these cookies, and know when a cookie is being sent to your computer. If you choose to refuse our cookies, you may not be able to use some portions of our Service.</p>
-
-<p>For more general information on cookies, please read <a href="https://www.privacypolicyonline.com/what-are-cookies/">"What Are Cookies"</a>.</p>
+<p>This extension does not read, modify, or retain any cookie information.</p>
 
 <h2>Service Providers</h2>
 
@@ -37,7 +31,7 @@
     <li>To assist us in analyzing how our Service is used.</li>
 </ul>
 
-<p>We want to inform our Service users that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.</p>
+<p>We want to inform our Service users that these no one has access to any identifiable information.</p>
 
 <h2>Security</h2>
 
@@ -46,10 +40,6 @@
 <h2>Links to Other Sites</h2>
 
 <p>Our Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by us. Therefore, we strongly advise you to review the Privacy Policy of these websites. We have no control over, and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.</p>
-
-<p>Children's Privacy</p>
-
-<p>Our Services do not address anyone under the age of 13. We do not knowingly collect personal identifiable information from children under 13. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do necessary actions.</p>
 
 <h2>Changes to This Privacy Policy</h2>
 
